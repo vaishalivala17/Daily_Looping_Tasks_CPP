@@ -3,6 +3,7 @@ using namespace std;
 
 int main(){
 
+     // Factirial of the Number
      int n, fact = 1;
 
      cout << "Enter the Number for factoreal : " ; // 5! = 5*4*3*2*1 = 120
