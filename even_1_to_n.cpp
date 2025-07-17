@@ -9,6 +9,7 @@ int main(){
     //  Output : 2 4 6 8 10 
 
     int n;
+    
     cout << "Enter the Number for print even numbers before N : " ;
     cin >> n;
 
