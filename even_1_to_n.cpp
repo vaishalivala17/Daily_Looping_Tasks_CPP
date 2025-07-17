@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     
-    //  Print 1 To n Even numbers
+    //  Print 1 To N Even numbers
 
     //  Enter  : 10
     //  Output : 2 4 6 8 10 
