@@ -16,9 +16,8 @@ int main() {
                 isPrime = false;
                 break;
             }
-        }
-    }
-
+        }    }
+        
     if (isPrime) {
         cout << "The number is Prime Number." << endl;
     } else {
