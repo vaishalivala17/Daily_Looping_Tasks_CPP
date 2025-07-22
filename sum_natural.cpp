@@ -2,7 +2,6 @@
 using namespace std;
 
 int main(){
-
     //  Sum of First N Natural Numbers
 
     // Enter : 5 
