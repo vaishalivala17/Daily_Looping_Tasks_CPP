@@ -2,12 +2,11 @@
 using namespace std;
 
 int main(){
+    // Count the number of Digits
 
-    // Count of Digits
-
-    int n, count = 0, digit = 0;
     // Enter  : 123
     // Output : 3
+    int n, count = 0, digit = 0;
 
     cout << "Enter the number for count the digit : " ;
     cin >> n;  

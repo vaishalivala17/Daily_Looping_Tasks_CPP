@@ -2,12 +2,11 @@
 using namespace std;
 
 int main(){
-
     // Reverse of the Number 
-    int n , digit = 0, reverse = 0;
 
     // Enter  : 123
     // Output : 0*10+3 = 3,  3*10+2 = 32, 32*10+1 = 321
+    int n , digit = 0, reverse = 0;
 
     cout << "Enter the number for revrse : " ;
     cin >> n;              

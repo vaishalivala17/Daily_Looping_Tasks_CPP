@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-
+    // TABLE OF THE NUMBER
     int n;
 
     cout << "Enter the Number for Print the Table : " ;
