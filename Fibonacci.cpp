@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    // FIBONACCI SERIES
+    // Fibonacci series 
     
     int n, a=0, b=1, c;
     
