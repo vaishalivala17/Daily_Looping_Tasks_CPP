@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-	// CURD ... 
+	// CRUD ... 
 	
 	int size,choice,a,index,ele,i;
 	
