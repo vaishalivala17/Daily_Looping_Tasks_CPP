@@ -12,7 +12,7 @@ int main(){
     cout << "Fibonacci Series: " << a << ", " << b;
     
     for(int i=2; i<n; i++){
-        c = a + b;  // c = 0+1=1, 1+1=2, 1+2=3, 2+3=5, 3+5=8
+        c = a + b;  // c =  0, 1, 0+1=1, 1+1=2, 1+2=3
         cout << ", " << c;
         a = b;      // a = 1, a = 2, a = 3, a = 5
         b = c;      // b = 1, b = 2, b = 3, b = 5
