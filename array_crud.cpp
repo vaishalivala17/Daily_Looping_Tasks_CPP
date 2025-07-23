@@ -98,9 +98,9 @@ int main(){
 				break;
 			case 5: // VIEW
 				cout << "Current Array : ";
-                for(int i = 0; i < size; i++) {
-                    cout << array[i] << " ";
-                }
+                                for(int i = 0; i < size; i++) {
+                    			cout << array[i] << " ";
+               			}
 				break; 
 			default : 
 				cout << "Enter valid value...." << endl;
